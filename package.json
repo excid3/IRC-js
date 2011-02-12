@@ -11,7 +11,7 @@
 , "version" : "0.2.15"
 , "main" : "./lib/irc"
 , "directories" : { "lib" : "./lib", "node_libraries" : "./node_libraries" }
-, "engines" : [ "node >=0.2.0" ]
+, "engines" : [ "node >=0.4.0" ]
 , "dependencies" :
   { "coloured-log" : ">= 0.9.4"
   }
